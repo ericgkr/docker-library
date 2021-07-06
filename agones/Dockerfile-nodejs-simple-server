@@ -1,0 +1,1 @@
+FROM gcr.io/agones-images/nodejs-simple-server:0.5 

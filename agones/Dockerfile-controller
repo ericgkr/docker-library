@@ -1,0 +1,1 @@
+FROM gcr.io/agones-images/agones-controller:1.15.0

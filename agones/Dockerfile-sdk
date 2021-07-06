@@ -1,0 +1,1 @@
+FROM gcr.io/agones-images/agones-sdk:1.15.0

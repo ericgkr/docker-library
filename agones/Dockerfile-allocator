@@ -1,0 +1,1 @@
+FROM gcr.io/agones-images/agones-allocator:1.15.0
